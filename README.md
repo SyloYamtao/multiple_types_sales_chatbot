@@ -23,7 +23,7 @@ conda activate chatbot
 You will need to activate this environment every time you use it.
 
 ### Installing Python Dependency Packages
-#### Run the following command in the homework directory
+#### Run the following command in the `multiple_types_sales_chatbot` directory
 ```shell
 pip install -r requirements.txt
 ```

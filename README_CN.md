@@ -28,7 +28,7 @@ conda activate chatbot
 
 ### 安装 Python 依赖软件包
 
-#### 在homework路径下运行一下命令
+#### 在`multiple_types_sales_chatbot`路径下运行一下命令
 
 ```shell
 pip install -r requirements.txt
