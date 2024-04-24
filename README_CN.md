@@ -17,8 +17,10 @@ rm -rf ~/miniconda3/miniconda.sh
 
 ```shell
 conda create -n chatbot python=3.10
+```
 
 ### 激活环境
+```shell
 conda activate chatbot 
 ```
 
